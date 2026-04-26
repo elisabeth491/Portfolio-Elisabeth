@@ -8,9 +8,10 @@ The goal of this project is not only to present my work, but also to demonstrate
 ---
 
 ⚙️ How to Use
+
 Download the zip 
 
-Open portfolio.html from the Portfolio folder 
+Open portfolio.html 
 
 ---
 
