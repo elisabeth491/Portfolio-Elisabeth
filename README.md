@@ -8,7 +8,7 @@ The goal of this project is not only to present my work, but also to demonstrate
 ---
 
 ⚙️ How to Use
-Clone the repository
+Clone the repository (download zip and extract it)
 Open portfolio.html in your browser
 
 ---
