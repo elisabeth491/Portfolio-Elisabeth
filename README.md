@@ -7,6 +7,12 @@ The goal of this project is not only to present my work, but also to demonstrate
 
 ---
 
+⚙️ How to Use
+Clone the repository
+Open portfolio.html in your browser
+
+---
+
 ## 🚀 Features
 
 * 📄 Clean multi-section layout (Hero, Projects, Skills, About, Contact)
